@@ -1,8 +1,8 @@
 {
-    "name": "MyEventManager",
+    "name": "AuthBaseline",
     "version": "0.0.1",
     "author": "Joe Hale",
-    "homepage": "https://joehale.io/projects/EventManager",
+    "homepage": "https://joehale.io/projects/AuthBaseline",
     "private": true,
     "scripts": {
         "clean": "ionic-app-scripts clean",
@@ -37,7 +37,7 @@
         "@ionic/app-scripts": "3.0.0",
         "typescript": "2.3.4"
     },
-    "description": "An Event Manager Application",
+    "description": "An Ionic starter baseline for Firebase",
     "cordova": {
         "plugins": {
             "cordova-plugin-camera": {}
