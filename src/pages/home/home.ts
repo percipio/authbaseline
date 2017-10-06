@@ -7,6 +7,8 @@ import { NavController } from 'ionic-angular';
 })
 export class HomePage {
 
+  pageTitle: string = "My Event Manager";
+
   constructor(public navCtrl: NavController) {
 
   }
